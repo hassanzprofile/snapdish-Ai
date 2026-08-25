@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=200&section=header&text=SnapDish.AI&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 </div>
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75F3?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Intermediate-10B981?style=for-the-badge)
