@@ -1,31 +1,14 @@
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="200" fill="#0F172A"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" 
-        font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="bold" fill="#38BDF8">
-    SnapDish.AI
-  </text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" 
-        font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#E2E8F0">
-    From Image to Recipe with Gemini AI + Your Personal AI Chef
-  </text>
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=SnapDish.AI;AI+Chef+in+Your+Pocket" alt="Typing SVG" />
+</p>
 
-# SnapDish.AI
-
-<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="200" fill="#0F172A"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" 
-        font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="bold" fill="#38BDF8">
-    SnapDish.AI
-  </text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" 
-        font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#E2E8F0">
-    From Image to Recipe with Gemini AI + Your Personal AI Chef
-  </text>
-</svg>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=200&section=header&text=SnapDish.AI&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+</div>
+### From Image to Recipe with Gemini AI + Your Personal AI Chef
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75F3?style=for-the-badge&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75F3?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-10B981?style=for-the-badge)
 
