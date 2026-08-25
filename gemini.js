@@ -3,7 +3,7 @@ const GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta/models";
 const GEMINI_MODEL = "gemini-3.6-flash";
 
 //will hide API key in production, but for demo purposes we can use a default key that is rate-limited and read-only. Users can add their own key in Settings to avoid rate limits.
-const DEFAULT_GEMINI_KEY = "AQ.Ab8RN6Lz_hh6EG_FDkQZzrSJLgRQ9q19pEgsW8986al72_FW6Q";
+const DEFAULT_GEMINI_KEY = "(your own gemini API key)";
 
 function getApiKey() {
   return localStorage.getItem("snapdish_gemini_key") || DEFAULT_GEMINI_KEY;
