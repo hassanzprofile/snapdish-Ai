@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=200&section=header&text=SnapDish.AI&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 </div>
-### From Image to Recipe with Gemini AI + Your Personal AI Chef
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75F3?style=for-the-badge&logo=google&logoColor=white)
