@@ -11,18 +11,24 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Intermediate-10B981?style=for-the-badge)
 
+<p align="center">
+  <a href="https://snapdish-lovat.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔴_LIVE_PREVIEW-Click%20to%20Try%20SnapDish.AI-red?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
 **SnapDish.AI** is an AI-powered recipe platform that turns food photos into full recipes.  
 Snap a dish, get the recipe instantly. Plus browse built-in recipes, create your own, and chat with your personal **AI Chef**.
 
-### ✨ Features
+###  Features
 
-- **📸 Image to Recipe Generator**: Upload a food image → Gemini AI analyzes it and generates ingredients, steps, calories, and cooking time.
-- **📚 Built-in Recipe Library**: 100+ curated recipes you can browse and cook right away.
-- **✍️ Create Your Own Recipes**: Users can add, edit, and save their own recipes with AI suggestions for improvements.
-- **👨‍🍳 AI Chatbot Chef**: Ask "What can I make with chicken and rice?" or "How to make this less spicy?" and get instant answers from your AI chef powered by Gemini.
-- **🔍 Smart Search**: Find recipes by ingredients, cuisine, or dietary needs.
+- ** Image to Recipe Generator**: Upload a food image → Gemini AI analyzes it and generates ingredients, steps, calories, and cooking time.
+- ** Built-in Recipe Library**: 100+ curated recipes you can browse and cook right away.
+- ** Create Your Own Recipes**: Users can add, edit, and save their own recipes with AI suggestions for improvements.
+- ** AI Chatbot Chef**: Ask "What can I make with chicken and rice?" or "How to make this less spicy?" and get instant answers from your AI chef powered by Gemini.
+- ** Smart Search**: Find recipes by ingredients, cuisine, or dietary needs.
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Category | Technology |
 | --- | --- |
@@ -33,7 +39,7 @@ Snap a dish, get the recipe instantly. Plus browse built-in recipes, create your
 | **Image Processing** | Pillow, OpenCV |
 | **Deployment** | Streamlit Cloud / Render |
 
-### 📦 Libraries to Install
+###  Libraries to Install
 
 Minimal setup. Main dependencies:
 
