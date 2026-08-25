@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75F3?style=for-the-badge&logo=google&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-10B981?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Intermediate20%Project-10B981?style=for-the-badge)
 
 **SnapDish.AI** is an AI-powered recipe platform that turns food photos into full recipes.  
 Snap a dish, get the recipe instantly. Plus browse built-in recipes, create your own, and chat with your personal **AI Chef**.
